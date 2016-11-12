@@ -17,8 +17,8 @@ Master Functional Programming techniques while learning to build compelling web 
 ```
 0 / 15
 An Elixir Warmup
-[ ] 1. How to Get Help 2:52
-[ ] 2. Installing Elixir 2:00
+[x] 1. How to Get Help 2:52
+[x] 2. Installing Elixir 2:00
 [ ] 3. Project Outline 4:05
 [ ] 4. Generating a Project 2:51
 [ ] 5. Elixir Modules and Methods 6:04
