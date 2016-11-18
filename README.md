@@ -15,13 +15,14 @@ Master Functional Programming techniques while learning to build compelling web 
 
 ## Topics
 ```
+Section: 1
 0 / 15
 An Elixir Warmup
 [x] 1. How to Get Help 2:52
 [x] 2. Installing Elixir 2:00
-[ ] 3. Project Outline 4:05
-[ ] 4. Generating a Project 2:51
-[ ] 5. Elixir Modules and Methods 6:04
+[x] 3. Project Outline 4:05
+[x] 4. Generating a Project 2:51
+[x] 5. Elixir Modules and Methods 6:04
 [ ] 6. Lists and Strings 3:22
 [ ] 7. Object Oriented vs Functional Programming 9:12
 [ ] 8. Method Arguments 4:48
@@ -33,8 +34,7 @@ An Elixir Warmup
 [ ] 14. Solving Nested Arrays 6:47
 [ ] 15. Importance of Index with Tuples 8:34
 
-0 / 15
-An Elixir Warmup
+
 Section: 2
 0 / 8
 Elixir's Amazing Pattern Matching
