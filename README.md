@@ -23,12 +23,12 @@ An Elixir Warmup
 [x] 3. Project Outline 4:05
 [x] 4. Generating a Project 2:51
 [x] 5. Elixir Modules and Methods 6:04
-[ ] 6. Lists and Strings 3:22
-[ ] 7. Object Oriented vs Functional Programming 9:12
-[ ] 8. Method Arguments 4:48
-[ ] 9. The Enum Module 5:54
-[ ] 10. Immutability in Elixir 3:57
-[ ] 11. Searching a List 6:02
+[x] 6. Lists and Strings 3:22
+[x] 7. Object Oriented vs Functional Programming 9:12
+[x] 8. Method Arguments 4:48
+[x] 9. The Enum Module 5:54
+[x] 10. Immutability in Elixir 3:57
+[x] 11. Searching a List 6:02
 [ ] 12. Comprehensions Over Lists 7:11
 [ ] 13. Not Everything Works the First Time 5:02
 [ ] 14. Solving Nested Arrays 6:47
