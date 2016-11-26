@@ -29,10 +29,10 @@ An Elixir Warmup
 [x] 9. The Enum Module 5:54
 [x] 10. Immutability in Elixir 3:57
 [x] 11. Searching a List 6:02
-[ ] 12. Comprehensions Over Lists 7:11
-[ ] 13. Not Everything Works the First Time 5:02
-[ ] 14. Solving Nested Arrays 6:47
-[ ] 15. Importance of Index with Tuples 8:34
+[x] 12. Comprehensions Over Lists 7:11
+[x] 13. Not Everything Works the First Time 5:02
+[x] 14. Solving Nested Arrays 6:47
+[x] 15. Importance of Index with Tuples 8:34
 
 
 Section: 2
