@@ -38,10 +38,10 @@ An Elixir Warmup
 Section: 2
 0 / 8
 Elixir's Amazing Pattern Matching
-[ ] 16. Pattern Matching 10:43
-[ ] 17. Elixir's Relationship with Erlang 5:15
-[ ] 18. Saving a Deck 3:52
-[ ] 19. Pattern Matching Continued 10:23
+[x] 16. Pattern Matching 10:43
+[x] 17. Elixir's Relationship with Erlang 5:15
+[x] 18. Saving a Deck 3:52
+[x] 19. Pattern Matching Continued 10:23
 [ ] 20. Pattern Matching in Case Statements 14:14
 [ ] 21. The Pipe Operator 4:23
 [ ] 22. The Pipe Operator Continued 4:05
