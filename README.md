@@ -50,12 +50,12 @@ Elixir's Amazing Pattern Matching
 Section: 3
 0 / 6
 Testing and Documentation
-[ ] 24. Writing and Generating Documentation 3:34
-[ ] 25. Creating Function Docs 6:18
-[ ] 26. Introduction to Testing 2:53
-[ ] 27. Amazingly Productive Doctests 3:37
-[ ] 28. Writing Effective Doctests 5:16
-[ ] 29. Case Tests 6:52
+[x] 24. Writing and Generating Documentation 3:34
+[x] 25. Creating Function Docs 6:18
+[x] 26. Introduction to Testing 2:53
+[x] 27. Amazingly Productive Doctests 3:37
+[x] 28. Writing Effective Doctests 5:16
+[x] 29. Case Tests 6:52
 
 Section: 4
 0 / 3
