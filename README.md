@@ -60,9 +60,9 @@ Testing and Documentation
 Section: 4
 0 / 3
 A Few Side Topics
-[ ] 30. Introduction to Maps 4:07
-[ ] 31. Updating Values in a Map 7:55
-[ ] 32. Keyword Lists 8:21
+[x] 30. Introduction to Maps 4:07
+[x] 31. Updating Values in a Map 7:55
+[x] 32. Keyword Lists 8:21
 
 Section: 5
 0 / 6
