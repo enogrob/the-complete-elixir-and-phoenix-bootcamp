@@ -67,12 +67,12 @@ A Few Side Topics
 Section: 5
 0 / 6
 Image Manipulation with Elixir
-[ ] 33. Project Overview 3:43
-[ ] 34. Identicon Generation Process 2:33
-[ ] 35. Identicon Generation Process Continued 3:02
-[ ] 36. The Main Pipeline 3:20
-[ ] 37. Hashing a String 4:05
-[ ] 38. The Purpose of the Hex List 5:46
+[x] 33. Project Overview 3:43
+[x] 34. Identicon Generation Process 2:33
+[x] 35. Identicon Generation Process Continued 3:02
+[x] 36. The Main Pipeline 3:20
+[x] 37. Hashing a String 4:05
+[x] 38. The Purpose of the Hex List 5:46
 
 Section: 6
 0 / 11
