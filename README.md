@@ -77,7 +77,7 @@ Image Manipulation with Elixir
 Section: 6
 0 / 11
 Structs - Elixir's Data Modeling Tool
-[ ] 39. Modeling Data with Structs 6:46
+[x] 39. Modeling Data with Structs 6:46
 [ ] 40. Pattern Matching Structs 10:39
 [ ] 41. Updating Structs 10:08
 [ ] 42. Building the Grid 8:16
