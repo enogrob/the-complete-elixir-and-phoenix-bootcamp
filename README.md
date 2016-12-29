@@ -79,7 +79,7 @@ Section: 6
 Structs - Elixir's Data Modeling Tool
 [x] 39. Modeling Data with Structs 6:46
 [x] 40. Pattern Matching Structs 10:39
-[ ] 41. Updating Structs 10:08
+[x] 41. Updating Structs 10:08
 [ ] 42. Building the Grid 8:16
 [ ] 43. Mirroring a Row 5:08
 [ ] 44. Mapping with Custom Functions 6:32
