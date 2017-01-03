@@ -83,7 +83,7 @@ Structs - Elixir's Data Modeling Tool
 [x] 42. Building the Grid 8:16
 [x] 43. Mirroring a Row 5:08
 [x] 44. Mapping with Custom Functions 6:32
-[ ] 45. Grid Structure 8:31
+[x] 45. Grid Structure 8:31
 [ ] 46. Giving an Identicon Shape 9:34
 [ ] 47. Planning Image Creation 7:41
 [ ] 48. Creating the Pixel Map 5:48
