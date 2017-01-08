@@ -85,9 +85,9 @@ Structs - Elixir's Data Modeling Tool
 [x] 44. Mapping with Custom Functions 6:32
 [x] 45. Grid Structure 8:31
 [x] 46. Giving an Identicon Shape 9:34
-[ ] 47. Planning Image Creation 7:41
-[ ] 48. Creating the Pixel Map 5:48
-[ ] 49. Drawing Rectangles 9:46
+[x] 47. Planning Image Creation 7:41
+[x] 48. Creating the Pixel Map 5:48
+[x] 49. Drawing Rectangles 9:46
 
 Section: 7
 0 / 7
