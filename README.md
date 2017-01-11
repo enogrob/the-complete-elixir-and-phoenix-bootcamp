@@ -92,9 +92,9 @@ Structs - Elixir's Data Modeling Tool
 Section: 7
 0 / 7
 On to Phoenix
-[ ] 50. Phoenix Installation 4:10
-[ ] 51. Postgres Setup on OSX 6:37
-[ ] 52. What is Phoenix? 6:34
+[x] 50. Phoenix Installation 4:10
+[x] 51. Postgres Setup on OSX 6:37
+[x] 52. What is Phoenix? 6:34
 [ ] 53. App Overview 7:17
 [ ] 54. Into Phoenix We Go 8:09
 [ ] 55. Server Side Templating 3:39
