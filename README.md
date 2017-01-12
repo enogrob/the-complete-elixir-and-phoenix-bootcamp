@@ -95,7 +95,7 @@ On to Phoenix
 [x] 50. Phoenix Installation 4:10
 [x] 51. Postgres Setup on OSX 6:37
 [x] 52. What is Phoenix? 6:34
-[ ] 53. App Overview 7:17
+[x] 53. App Overview 7:17
 [ ] 54. Into Phoenix We Go 8:09
 [ ] 55. Server Side Templating 3:39
 [ ] 56. Templates vs Layouts 9:30
