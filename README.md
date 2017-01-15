@@ -103,9 +103,9 @@ On to Phoenix
 Section: 8
 0 / 12
 MVC in Phoenix
-[ ] 57. Phoenix's MVC Model 7:37
-[ ] 58. Exploring the Router and Controller 9:46
-[ ] 59. Views vs Templates 10:00
+[x] 57. Phoenix's MVC Model 7:37
+[x] 58. Exploring the Router and Controller 9:46
+[x] 59. Views vs Templates 10:00
 [ ] 60. The Model Layer in Phoenix 8:28
 [ ] 61. Migration Files 5:28
 [ ] 62. A Game Plan for Creating Topics 9:45
