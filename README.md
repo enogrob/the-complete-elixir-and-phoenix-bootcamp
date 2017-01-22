@@ -108,7 +108,7 @@ MVC in Phoenix
 [x] 59. Views vs Templates 10:00
 [x] 60. The Model Layer in Phoenix 8:28
 [x] 61. Migration Files 5:28
-[ ] 62. A Game Plan for Creating Topics 9:45
+[x] 62. A Game Plan for Creating Topics 9:45
 [ ] 63. Routing to the Topic Controller 7:24
 [ ] 64. Setting Up the Topic Controller 6:05
 [ ] 65. Code Reuse with Import, Alias, and Use 9:16
