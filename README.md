@@ -111,8 +111,8 @@ MVC in Phoenix
 [x] 62. A Game Plan for Creating Topics 9:45
 [x] 63. Routing to the Topic Controller 7:24
 [x] 64. Setting Up the Topic Controller 6:05
-[ ] 65. Code Reuse with Import, Alias, and Use 9:16
-[ ] 66. Phoenix's Code Sharing Model 8:09
+[x] 65. Code Reuse with Import, Alias, and Use 9:16
+[x] 66. Phoenix's Code Sharing Model 8:09
 [ ] 67. Phoenix's Conn Struct 8:24
 [ ] 68. A Phoenix Approach to Forms 4:53
 
