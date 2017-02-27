@@ -119,7 +119,7 @@ MVC in Phoenix
 Section: 9
 0 / 8
 Models in Phoenix
-[ ] 69. The Topic Model 3:54
+[x] 69. The Topic Model 3:54
 [ ] 70. Model Changesets and Validations 12:06
 [ ] 71. More on Changesets 8:27
 [ ] 72. Generating Changesets for the Form 6:04
